@@ -33,7 +33,7 @@ I’m passionate about building impactful projects and continuously expanding my
 ## 🎓 Education
 
 - 🎓 **B.Tech in Computer Science Engineering**  
-  _MSIT, Kolkata (2023 – 2027)_
+  _Meghnad Saha Institute of Technology, Kolkata (2023 – 2027)_
 
 - 🏫 **High School (Classes IX–XII)**  
   _Elias Meyer School & Talmud Torah (2019 – 2023)_

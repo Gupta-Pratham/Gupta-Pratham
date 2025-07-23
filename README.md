@@ -23,10 +23,10 @@ I’m passionate about building impactful projects and continuously expanding my
 ## 💼 Experience
 
 - 📌 **Java Development Intern** at **CodSoft**  
-  _Feb 2025 – Aug 2025 · Remote_
+  _July 2025 – Aug 2025 · Remote_
 
 - 📌 **Machine Learning Intern** at **InternPe**  
-  _2025 – Aug 2025 · Remote_
+  _July 2025 – Aug 2025 · Remote_
 
 ---
 

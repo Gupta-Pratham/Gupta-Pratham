@@ -12,9 +12,9 @@ I’m passionate about building impactful projects and continuously expanding my
 
 ## 🎯 Interests
 
-- 💻 **Front-End Development**
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 🛠️ **Software Development**
+- 💻 **Front-End Development**
 - 🧠 **Problem Solving**
 - 🌐 **Exploring New Technologies**
 
